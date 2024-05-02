@@ -102,6 +102,7 @@ h6, .h6 {
   font-size: 1rem; }
 
 p {
+  font-size: 1rem;
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -6287,6 +6288,9 @@ textarea.form-control-lg {
 .text-gold-arcadia {
   color: #e3a72f !important; }
 
+.text-red {
+  color: #cc1417 !important; }
+    
 .text-success {
   color: #198754 !important; }
 
