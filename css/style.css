@@ -458,6 +458,10 @@ progress {
   max-width: 100%;
   height: auto; }
 
+.img-blog {
+  max-width: 416px;
+  height: 260px; }
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
